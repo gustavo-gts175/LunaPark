@@ -33,7 +33,7 @@ const Footer = () => {
             <h5>Contacto</h5>
             <p>Dirección: Av. Ferroviaria No 123</p>
             <p>Ciudad: Potosí</p>
-            <p>Celular: (+591) 67787890</p>
+            <p>Celular: (+591) 64361005</p>
             <p>Email: contacto@parqueLunaPark.com</p>
           </div>
         </div>
